@@ -1,0 +1,6 @@
+1. pebbles
+A man comes up to you and suggests you should play his game. The man has a box containing dark and light
+pebbles. He will reach into the box and pull out two pebbles. If the pebbles match, he will throw them away and
+put a dark pebble back in. If the pebbles do not match, he will discard the dark pebble and return the light pebble.
+He makes you an offer: bet some money, and if you guess what the last pebble will be, he’ll double your money.
+Should you play the game?  
